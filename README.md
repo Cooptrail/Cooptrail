@@ -8,6 +8,6 @@
 ## Things that interest me
 <ol>
     <li>Video Games</li>
-    <li>higher learning</li>
+    <li>Higher Learning</li>
     <li>UFC</li>
 <ol>
