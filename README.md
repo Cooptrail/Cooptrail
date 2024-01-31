@@ -7,9 +7,7 @@
 
 ## Things that interest me
 <ol>
-    <li>Video Games<li>
-    <li>higher learning<li>
-    <li>UFc<li>
-
-
+    <li>Video Games</li>
+    <li>higher learning</li>
+    <li>UFC</li>
 <ol>
