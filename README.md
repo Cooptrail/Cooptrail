@@ -1,4 +1,4 @@
-# Hi im Jeremy
+# Hi Im Jeremy
 
  I am 30 years old and iam a multitalented person with the goal of accomplishing everything that interests me 
 
