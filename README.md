@@ -14,12 +14,17 @@
 <li>Hunting</li>
 <ol>
 
-<ul>
+
+
+
+
 <details>
 <summary>🎶 Spotify Now Playing</summary>
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=epicgammie12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />](https://github.com/kittinan/spotify-github-profile)
 
 </details>
-</ul
->
+
+
+
+<img width=200 src="/https://www.thewowstyle.com/wp-content/uploads/2015/01/9-best-wildlife-photography.jpg"/>
