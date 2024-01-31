@@ -11,4 +11,13 @@
 <li>Higher Learning</li>
 <li>UFC</li>
 <li>Animals</li>
+<li>Hunting</li>
 <ol>
+
+
+<details>
+<summary>🎶 Spotify Now Playing</summary>
+
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=epicgammie12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />](https://github.com/kittinan/spotify-github-profile)
+
+</details>
