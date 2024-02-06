@@ -2,9 +2,11 @@
 
 [This is my linkedin](https://www.linkedin.com/in/jeremy-cooper-83026a2b2/)
 
+
  I am 30 years old and iam a multitalented person with the goal of accomplishing everything that interests me 
 
  I learned about the code crew through a family member of mines coding is something i was once very familiar with and with the help of the people here im sure everything will return and i can learn something new
+
 
 
 ## *Things that interest me*
@@ -15,6 +17,8 @@
 <li>Animals</li>
 <li>Hunting</li>
 <ol>
+
+Want to know more [SideQuests website: https://sidequests.onrender.com/](https://sidequests.onrender.com/) just click the link 
 
 
 
